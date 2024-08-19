@@ -9,4 +9,5 @@ Bu proje Visual Studio Code üzerinden yazılmıştır.
 ### Proje Kullanımı ve Örnek Görüntüler, Durumlar
 
 Az önce de belirttiğim gibi projeyi çalıştırmak için bir derleyici bulundurmanız yeterli olacaktır. Derleyici üzerinden projeyi direkt olarak başlattığınızda projemiz çalışmaya başlayacaktır. 
-** (Lütfen Dikkat: Python Bootcamp proje yönergesinde terminalden ana fonksiyonu çalıştırmamız istenmişti ancak buna gerek olmadan proje direkt olarak başlayacaktır.)
+** (Lütfen Dikkat: Python Bootcamp proje yönergesinde terminalden ana fonksiyonu çalıştırmamız istenmişti ancak buna gerek olmadan proje direkt olarak başlayacaktır.) **
+
